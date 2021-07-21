@@ -19,6 +19,6 @@ Eine Buchung besteht aus Datum, Betrag in €, Kategorie (aus Dropdown auswähle
 
 **3) Übersicht über die eingetragenen Kategorien erhalten und neue Kategorie erstellen**
 
-Um eine Buchung tätigen zu können, muss diese einer Kategorie zugewiesen werden. Eine neue Kategorie kann über den "+ Button" erstellt werden. Unter dem Reiter Kategorien findet man außerdem alle bisher erstellten Kategorien in einer Tabelle.
+Um eine Buchung tätigen zu können, muss diese einer Kategorie zugewiesen werden. Eine neue Kategorie kann über den "+ Button" erstellt werden. Unter dem Reiter Kategorien findet man außerdem alle bisher erstellten Kategorien in einer Tabelle. Die erstellten Kategorien werden zum drop down menü des Buchungsformulars hinzugefügt.
 
 Sind alle Buchungen eingetragen, kann sich der/die Anwenderin per "Logout Button" abmelden.
