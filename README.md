@@ -1,5 +1,5 @@
 # Ausgabentracker
-HS Ansabch - Studienarbeit client server SS 2021von Kristin Opp
+HS Ansabch - Studienarbeit client server SS 2021 von Kristin Opp
 
 Das Projekt wurde mit XAMPP erstellt. Als Startseite dient index.php
 
