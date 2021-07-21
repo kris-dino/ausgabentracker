@@ -9,13 +9,13 @@ Das Projekt findet sich unter **ausgabentracker.kristinopp.de**
 
 **passwort: sta-cs**
 
-Ausgabentracker dient dazu, die eigenen Finanzen im Überblick zu behalten. Nach dem Login gelangt der/die BnutzerIn auf index.php, von wo aus er/sie zu verschiedenen Unterseiten gelangt:
+Ausgabentracker dient dazu, die eigenen Finanzen im Überblick zu behalten. Nach dem Login gelangt der/die BenutzerIn auf index.php, von wo aus er/sie zu verschiedenen Unterseiten gelangt:
 
 **1) Buchungen hinzufügen**
 
 Eine Buchung besteht aus Datum, Betrag in €, Kategorie (aus Dropdown auswählen) und Verwendungszweck. Nach dem Klick auf submit wird die Buchung zur Tabelle hinzugefügt und ist unter dem Reiter Übersicht zu sehen.
 
-**2) Übersicht über die eingetätigten Buchungen erhalten**
+**2) Übersicht über die getätigten Buchungen erhalten**
 
 **3) Übersicht über die eingetragenen Kategorien erhalten und neue Kategorie erstellen**
 
