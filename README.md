@@ -3,7 +3,7 @@ HS Ansbach - Studienarbeit client server SS 2021 von Kristin Opp
 
 Das Projekt wurde mit XAMPP erstellt. Als Startseite dient index.php
 
-Das Projekt findet sich unter **http://ausgabentracker.kristinopp.de/login.php**. Der Code und die Dokumentation können unter **https://github.com/kris-dino/ausgabentracker** aufgerufen werden.
+Der Code und die Dokumentation können unter **https://github.com/kris-dino/ausgabentracker** aufgerufen werden.
 
 **benutzername: kristin**
 
