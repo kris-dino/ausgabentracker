@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6e7e3b50-6070-4fe6-b4b5-366c4bb3b0c5" name="ausgabentracker" url="http://ausgabentracker.kristinopp.de">
+        <fileTransfer host="188.40.30.69" port="21" rootFolder="/public_html/ausgabentracker">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
