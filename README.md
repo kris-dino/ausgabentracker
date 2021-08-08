@@ -1,9 +1,9 @@
 # Ausgabentracker
-HS Ansabch - Studienarbeit client server SS 2021 von Kristin Opp
+HS Ansbach - Studienarbeit client server SS 2021 von Kristin Opp
 
 Das Projekt wurde mit XAMPP erstellt. Als Startseite dient index.php
 
-Das Projekt findet sich unter **ausgabentracker.kristinopp.de**. Der Code und die Dokumentation können unter **https://github.com/kris-dino/ausgabentracker** aufgerufen werden.
+Das Projekt findet sich unter **http://ausgabentracker.kristinopp.de/login.php**. Der Code und die Dokumentation können unter **https://github.com/kris-dino/ausgabentracker** aufgerufen werden.
 
 **benutzername: kristin**
 
@@ -17,13 +17,17 @@ Eine Buchung besteht aus Datum, Betrag in €, Kategorie (aus Dropdown auswähle
 
 **2) Übersicht über die getätigten Buchungen erhalten**
 
+Siehe "Probleme".
+
 **3) Übersicht über die eingetragenen Kategorien erhalten und neue Kategorie erstellen**
 
 Um eine Buchung tätigen zu können, muss diese einer Kategorie zugewiesen werden. Eine neue Kategorie kann über den "+ Button" erstellt werden. Unter dem Reiter Kategorien findet man außerdem alle bisher erstellten Kategorien in einer Tabelle. Die erstellten Kategorien werden zum drop down menü des Buchungsformulars hinzugefügt.
 
 Sind alle Buchungen eingetragen, kann sich der/die Anwenderin per "Logout Button" abmelden.
 
-## Probleme
+# Probleme
 
-Unter **create_buchung.php** kann der/die BenutzerIn 
+Unter **create_buchung.php** soll der/die BenutzerIn eine neue Buchung über das Formular in die Datenbank "moneydb" eintragen können. Das ist mir allerdings nicht gelungen. Aus mir nicht nachvollziehbaren Gründen wird die Fehlermeldung "Undefined index: katid in ausgabentracker\create_buchung.php on line 37" ausgegeben. Trotz Recherchen und Nachfragen bei KommillitonInnen konnte ich das Problem nicht beheben.
+
+Ursprünglich war geplant, die verschiedenen Buchungen nach Datum und/oder Kategorie zu filtern. Da ich mich bis zuletzt mit dem oben beschriebenen Problem auseinandergesetzt habe, konnte ich diese Funktion leider nicht mehr realisieren.
  
