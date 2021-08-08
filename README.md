@@ -3,7 +3,7 @@ HS Ansabch - Studienarbeit client server SS 2021 von Kristin Opp
 
 Das Projekt wurde mit XAMPP erstellt. Als Startseite dient index.php
 
-Das Projekt findet sich unter **ausgabentracker.kristinopp.de**
+Das Projekt findet sich unter **ausgabentracker.kristinopp.de**. Der Code und die Dokumentation können unter **https://github.com/kris-dino/ausgabentracker** aufgerufen werden.
 
 **benutzername: kristin**
 
@@ -22,3 +22,8 @@ Eine Buchung besteht aus Datum, Betrag in €, Kategorie (aus Dropdown auswähle
 Um eine Buchung tätigen zu können, muss diese einer Kategorie zugewiesen werden. Eine neue Kategorie kann über den "+ Button" erstellt werden. Unter dem Reiter Kategorien findet man außerdem alle bisher erstellten Kategorien in einer Tabelle. Die erstellten Kategorien werden zum drop down menü des Buchungsformulars hinzugefügt.
 
 Sind alle Buchungen eingetragen, kann sich der/die Anwenderin per "Logout Button" abmelden.
+
+## Probleme
+
+Unter **create_buchung.php** kann der/die BenutzerIn 
+ 
