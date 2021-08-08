@@ -27,7 +27,7 @@ Sind alle Buchungen eingetragen, kann sich der/die Anwenderin per "Logout Button
 
 # Probleme
 
-Unter **create_buchung.php** soll der/die BenutzerIn eine neue Buchung über das Formular in die Datenbank "moneydb" eintragen können. Das ist mir allerdings nicht gelungen. Aus mir nicht nachvollziehbaren Gründen wird die Fehlermeldung "Undefined index: katid in ausgabentracker\create_buchung.php on line 37" ausgegeben. Trotz Recherchen und Nachfragen bei KommillitonInnen konnte ich das Problem nicht beheben.
+Unter **create_buchung.php** soll der/die BenutzerIn eine neue Buchung über das Formular in die Datenbank "moneydb" eintragen können. Das ist mir allerdings nicht gelungen. Aus mir nicht nachvollziehbaren Gründen wird die Fehlermeldung "Undefined index: katid in ausgabentracker\create_buchung.php on line 36" ausgegeben. Trotz Recherchen und Nachfragen bei KommillitonInnen konnte ich das Problem nicht beheben.
 
 Ursprünglich war geplant, die verschiedenen Buchungen nach Datum und/oder Kategorie zu filtern. Da ich mich bis zuletzt mit dem oben beschriebenen Problem auseinandergesetzt habe, konnte ich diese Funktion leider nicht mehr realisieren.
  
