@@ -9,6 +9,8 @@ Der Code und die Dokumentation können unter **https://github.com/kris-dino/ausg
 
 **passwort: sta-cs**
 
+# Beschreibung der Anwendung
+
 Ausgabentracker dient dazu, die eigenen Finanzen im Überblick zu behalten. Nach dem Login gelangt der/die BenutzerIn auf index.php, von wo aus er/sie zu verschiedenen Unterseiten gelangt:
 
 **1) Buchungen hinzufügen**
